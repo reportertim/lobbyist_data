@@ -1,6 +1,10 @@
+# Data must be manually downloaded from https://floridalobbyist.gov/CompensationReportSearch/DownloadCompReport. Typically we use the most recent four quarterly reports.
+
+
 # Load libraries
 library(readr)
 library(dplyr)
+library(writexl)
 
 
 # Set the working directory to legislative data
@@ -92,7 +96,8 @@ leg_top_clients <- leg_data %>%
   arrange(FIRM_NAME, desc(leg_payment)) %>%
   ungroup()
 
-leg_top_clients <- rename(leg_top_clients,c(top_legislative_clients=PRINCIPAL_NAME))
+leg_top_clients <- rename(leg_top_clients,c(top_legislative_clients=PRINCIPAL_NAME)) %>%
+  filter(leg_payment > 50000)
 
 
 exec_top_clients <- exec_data %>%
@@ -103,7 +108,8 @@ exec_top_clients <- exec_data %>%
   arrange(FIRM_NAME, desc(exec_payment)) %>%
   ungroup()
 
-exec_top_clients <- rename(exec_top_clients,c(top_executive_clients=PRINCIPAL_NAME))
+exec_top_clients <- rename(exec_top_clients,c(top_executive_clients=PRINCIPAL_NAME)) %>%
+  filter(exec_payment > 50000)
 
 
 # Top buyers of lobbying services
@@ -140,3 +146,16 @@ total_demo <- inner_join(leg_demo, exec_demo) %>%
 
 # Combine for list
 
+for_list <- total_demo |>
+  inner_join(total_comp, by = join_by(FIRM_NAME == FIRM_NAME)) %>%
+  arrange(desc(total_comp))
+
+for_list <- for_list %>%
+  distinct(FIRM_NAME, .keep_all = TRUE) 
+
+# export
+
+write_xlsx(for_list,"top_lobbyists.xlsx")
+write_xlsx(total_buyers, "top_buyers.xlsx")
+write_xlsx(leg_top_clients,"top_leg_clients.xlsx")
+write_xlsx(exec_top_clients,"top_exec_clients.xlsx")
