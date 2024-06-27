@@ -1,0 +1,47 @@
+REPORT_QUARTER	REPORT_YEAR	RECORD_TYPE	FIRM_NAME	CERTIFICATION_NAME	TITLE	ADDRESS_LINE_1	ADDRESS_LINE_2	CITY	STATE	POSTAL_CODE	ZIP_+4	COUNTRY	PHONE_NUMBER	SUBMISSION_DATE	TOTAL_COMPENSATION_RANGE	LOBBYIST_NAME	PRINCIPAL_NAME	PRINCIPAL_ADDRESS_LINE_1	PRINCIPAL_ADDRESS_LINE_2	PRINCIPAL_CITY_NAME	PRINCIPAL_STATE_NAME	PRINCIPAL_POSTAL_CODE	PRINCIPAL_ZIP_EXT	PRINCIPAL_COUNTRY_NAME	PRINCIPAL_PHONE_NUMBER	PRINCIPAL_COMPENSATION_RANGE	PRIME_FIRM_NAME	PRIME_FIRM_ADDRESS_LINE_1	PRIME_FIRM_ADDRESS_LINE_2	PRIME_FIRM_CITY_NAME	PRIME_FIRM_STATE_NAME	PRIME_FIRM_POSTAL_CODE	PRIME_FIRM_ZIP_EXT	PRIME_FIRM_COUNTRY_NAME	PRIME_FIRM_PHONE_NUMBER
+April - June	2024	FIRM	All Florida Solutions Inc	Senior Partner HENRY B HANDLER	Senior Partner	PO Box 81-1433		Boca Raton	FL	33481-1433		US        	(561) 997-9995	01/09/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	All Florida Solutions Inc													Henry B. Handler
+April - June	2024	PRINCIPAL	All Florida Solutions Inc														Palm Beach County Sheriff's Office	3228 Gun Club Rd		West Palm Bch	FL	33406-3001		US        	(561) 688-3177	$10,000.00-$19,999.00	
+April - June	2024	FIRM	Capital Ideas	Owner Bonnie Basham	Owner	10797 Wadesboro Rd		Tallahassee	FL	32317-8106		US        	(850) 933-7277	05/07/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	Capital Ideas													Bonnie H. Basham
+April - June	2024	PRINCIPAL	Capital Ideas														Boat Owners Association of the United States	880 S Pickett St		Alexandria	VA	22304		US        	(703) 823-9550 x3363	$1.00-$9,999.00	
+April - June	2024	FIRM	DLA Consulting LLC	Owner David L Ash	Owner	3926 Shumard Oak Blvd		Tallahassee	FL	32311		US        	(850) 509-8916	04/16/2024	$0.00	
+April - June	2024	LOBBYIST	DLA Consulting LLC													David L. Ash
+April - June	2024	PRINCIPAL	DLA Consulting LLC														City of Tallahassee	300 S Adams St		Tallahassee	FL	32301-1721		US        	(850) 891-0000	$0.00	Gray Robison	301 S Bronough St 	600	Tallahassee	FL	32301		US        	(850) 577-9090	
+April - June	2024	FIRM	DLA Piper US	Senior Partner Darren Patz	Senior Partner	200 S Biscayne Blvd	2500	Miami	FL	33131-5340		US        	(305) 423-8500	06/18/2024	$100,000.00-$249,999.00	
+April - June	2024	LOBBYIST	DLA Piper US													Darren Patz
+April - June	2024	PRINCIPAL	DLA Piper US														Acorn Health	1500 S Douglas Rd	Suite 230	Coral Gables	FL	33134-4108		US        	(214) 264-4365	$10,000.00-$19,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														Advanced Care Partners	3525 Piedmont Rd NE Ste 620	Bldg 5 Ste 620	Atlanta	GA	30305-1578		US        	(404) 835-3512	$1.00-$9,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														AQUA Dermatology	600 Village Square Crossing		Palm Beach Gardens	Florida	33410		US        	(561) 694-9493	$20,000.00-$29,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														Blue Sprig Pediatrics, Inc.	300 International Pkwy	Suite 200	Lake Mary	FL	32746-5028		US        	(407) 871-9024	$10,000.00-$19,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														InBloom Autism Services	6416 NW 5Th Way		Ft Lauderdale	FL	33309-6112		US        	(954) 764-9492	$10,000.00-$19,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														Orthopedic Care Partners Management, LLC	500 E. Broward Blvd.	Suite 1580	Fort Lauderdale	Florida	33394		US        	(754) 283-9900	$10,000.00-$19,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														Schweiger Dermatology Group, Inc.	33 E 33Rd St	12th Floor	New York	NY	10016-5362		US        	(646) 558-6696	$10,000.00-$19,999.00	
+April - June	2024	PRINCIPAL	DLA Piper US														University Support Services, LLC	One Penn Plaza	47th Floor	New York	NY	10119		US        	(631) 665-8500 x1429	$20,000.00-$29,999.00	
+April - June	2024	FIRM	Hanna & Associates	Owner Mike Hanna	Owner	23 W Spring St		Alexandria	VA	22301-2450		US        	(850) 294-0560	06/17/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	Hanna & Associates													Michael E. Hanna
+April - June	2024	PRINCIPAL	Hanna & Associates														AeroPay	121 W Wacker Drive	Suite 1250	Chicago 	IL	60601		US        	(773) 739-9061	$1.00-$9,999.00	
+April - June	2024	FIRM	Horton & Associates LLC	Owner Malinda Horton	Owner	459 Cedar Hill Rd		Tallahassee	FL	32312-1046		US        	(850) 933-3066	02/02/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	Horton & Associates LLC													Malinda Jane Horton
+April - June	2024	PRINCIPAL	Horton & Associates LLC														Florida Association of Museums, Inc	PO Box 10951		Tallahassee	FL	32302		US        	850-222-6028	$1.00-$9,999.00	
+April - June	2024	FIRM	John Hunkiar	Owner John Hunkiar	Owner	7745 Holsteiner Ln		Tallahassee	FL	32309-1420		US        	(850) 694-3574	05/01/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	John Hunkiar													John Hunkiar
+April - June	2024	PRINCIPAL	John Hunkiar														Florida Association of School Safety Specialists (FS3)	208 S Monroe St		Tallahassee	FL	32301-1824		US        	(850) 577-5784	$1.00-$9,999.00	
+April - June	2024	FIRM	North Swell Media	Owner Herbert Terry Gibson	Owner	4394 NE 23rd Terrace		Jensen Beach	Florida	34957		US        	(772) 285-7683	06/18/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	North Swell Media													Herbert Terry Gibson
+April - June	2024	PRINCIPAL	North Swell Media														DEPLOY/US Inc.	177 Huntington Ave	Suite 1703	Boston	MA	02115-3153		US        	(262) 617-3556	$1.00-$9,999.00	
+April - June	2024	FIRM	Patsy Eccles & Associates	Owner Patsy Eccles	Owner	2949 Shamrock N Apt 14		Tallahassee	FL	32309-0209		US        	(850) 320-1413	05/20/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	Patsy Eccles & Associates													Patsy Eccles
+April - June	2024	PRINCIPAL	Patsy Eccles & Associates														Children's Comprehensive Care Center	200 SE 19th Ave		Pompano Beach	FL	33060		US        	(954)649-7362	$1.00-$9,999.00	
+April - June	2024	FIRM	Republic Consultants, LLC	Owner Ronald Phillips	Owner	1114 E St SE		Washington	DC	20003-2232		US        	(202) 316-4766	01/08/2024	$100,000.00-$249,999.00	
+April - June	2024	LOBBYIST	Republic Consultants, LLC													Ronald  (Ron) Phillips
+April - June	2024	PRINCIPAL	Republic Consultants, LLC														Muscogee (Creek) Nation	Po Box 580		Okmulgee	OK	74447-0580		US        	(918) 732-7845	$60,000.00	
+April - June	2024	FIRM	Terry Meek	Owner Terry Meek	Owner	3244 Arbor Hill Way		Tallahassee	FL	32309-3633		US        	(850) 893-7821	01/11/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	Terry Meek													Terry Meek
+April - June	2024	PRINCIPAL	Terry Meek														Council of Florida Medical School Deans	1115 W Call St		Tallahassee	FL	32306		US        	(850) 893-7821	$1.00-$9,999.00	
+April - June	2024	FIRM	The Gov Specialists, LLC. 	Owner Charles Hines	Owner	322 Yacht Harbor Dr		Osprey	FL	34229-9151		US        	(941) 223-1870	06/02/2024	$1.00-$49,999.00	
+April - June	2024	LOBBYIST	The Gov Specialists, LLC. 													Charles Daniel Hines
+April - June	2024	PRINCIPAL	The Gov Specialists, LLC. 														The Atlanta National League Baseball Club, LLC.	755 Battery Ave SE		Atlanta	GA	30339-3017		US        	(678) 644-8039	$1.00-$9,999.00	
+April - June	2024	FIRM	Theresa Bulger	Owner Theresa Bulger	Owner	3380 Main St		Chincoteague	VA	23336-1546		US        	(904) 880-9063	04/01/2024	$0.00	
+April - June	2024	LOBBYIST	Theresa Bulger													Theresa Bulger
+April - June	2024	PRINCIPAL	Theresa Bulger														Florida Coalition for Spoken Language Choices, The	253 Hayden Rd #104		Tallahassee	FL	32304		US        	(706) 941-2194	$0.00	
